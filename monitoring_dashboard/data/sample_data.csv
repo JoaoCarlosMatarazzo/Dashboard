@@ -1,1 +1,5 @@
+Time,Service,Status,Performance
+2024-07-23 00:00:00,Service A,80,95
+2024-07-23 01:00:00,Service B,70,88
+2024-07-23 02:00:00,Service C,60,85
  
